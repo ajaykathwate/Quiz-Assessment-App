@@ -1,4 +1,4 @@
-# Tests-App
+# Quiz Assessment App
 
 [This app is yet in development...]
 
